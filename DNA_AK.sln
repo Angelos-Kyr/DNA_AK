@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DNA_AK", "DNA_AK\DNA_AK.pyproj", "{E90B668B-8E3A-48FF-AE19-3A52D90BA4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90B668B-8E3A-48FF-AE19-3A52D90BA4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90B668B-8E3A-48FF-AE19-3A52D90BA4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B39EBE-03C8-43E4-B8CB-BA60C306AD0D}
+	EndGlobalSection
+EndGlobal
